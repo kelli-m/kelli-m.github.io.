@@ -16,11 +16,21 @@ I'm particularly interested in cybersecurity investigations, digital forensics, 
 
 ## Projects
 
-### Pomodoro Microservices Application
+<div class="project-card">
 
-A distributed Pomodoro timer application built using Python, Flask, REST APIs, and multiple microservices.
+<h3>Pomodoro Microservices Application</h3>
 
-**Focus:** Microservices • REST APIs • JSON • Software Engineering
+<p>
+A distributed Pomodoro timer application built with Python, Flask, REST APIs, and multiple microservices.
+</p>
+
+<p><strong>Technologies:</strong> Python • Flask • REST APIs • JSON • Microservices</p>
+
+<p>
+<a href="https://github.com/kelli-m/CS361-Timer-Service">View on GitHub →</a>
+</p>
+
+</div>
 
 ### Ocean Life Database
 
