@@ -1,3 +1,12 @@
+<style>
+.project-card {
+  border: 1px solid #444;
+  padding: 20px;
+  margin: 25px 0;
+  border-radius: 8px;
+}
+</style>
+
 # Kelli Muldoon
 
 **Computer Science Student | Cybersecurity • IT • UI Development**
