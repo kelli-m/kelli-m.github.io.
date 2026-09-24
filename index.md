@@ -9,7 +9,7 @@
 
 # Kelli Muldoon
 
-**Computer Science Student | Cybersecurity • IT • UI Development**
+Computer Science Student • Cybersecurity • IT • UI Development
 
 I'm a Computer Science student at Oregon State University with an interest in cybersecurity, IT, and user-focused technology.
 
@@ -27,7 +27,7 @@ I'm particularly interested in cybersecurity investigations, digital forensics, 
 
 <div class="project-card">
 
-<h3>Pomodoro Microservices Application</h3>
+<h3> Pomodoro Microservices Application </h3>
 
 <p>
 A distributed Pomodoro timer application built with Python, Flask, REST APIs, and multiple microservices.
@@ -41,11 +41,21 @@ A distributed Pomodoro timer application built with Python, Flask, REST APIs, an
 
 </div>
 
-### Ocean Life Database
+<div class="project-card">
+  
+<h3> Ocean Life Database </h3>
 
+<p>
 A full-stack database application built with Flask, Jinja2, MySQL, and phpMyAdmin. Designed a normalized relational database and implemented CRUD operations, foreign keys, cascading deletes, and stored procedures.
+</p>
 
-**Focus:** SQL • Database Design • Flask • MySQL
+<p><strong>Technologies:</strong> SQL • Database Design • Flask • MySQL
+
+<p>
+<a href="https://github.com/kelli-m/ocean-life-aquarium-database">View code on GitHub →</a>
+</p>
+
+</div>
 
 ### Raspberry Pi Network Filtering
 
