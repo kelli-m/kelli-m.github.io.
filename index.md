@@ -49,7 +49,7 @@ A distributed Pomodoro timer application built with Python, Flask, REST APIs, an
 A full-stack database application built with Flask, Jinja2, MySQL, and phpMyAdmin. Designed a normalized relational database and implemented CRUD operations, foreign keys, cascading deletes, and stored procedures.
 </p>
 
-<p><strong>Technologies:</strong> SQL • Database Design • Flask • MySQL
+<p><strong>Technologies:</strong> SQL • Database Design • Flask • MySQL</p>
 
 <p>
 <a href="https://github.com/kelli-m/ocean-life-aquarium-database">View code on GitHub →</a>
